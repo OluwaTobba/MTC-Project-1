@@ -95,7 +95,7 @@ h6 {
 
 #header h1 {
   margin: 0 0 10px 0;
-  font-size: 50px;
+  font-size: 45px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
@@ -114,7 +114,7 @@ h6 {
 #header .countdown div {
   text-align: center;
   margin: 17px;
-  width: 100px;
+  width: 90px;
   padding: 15px 0;
   background: rgba(255, 255, 255, 0.12);
   border-top: 6px solid green;
@@ -131,11 +131,11 @@ h6 {
   font-weight: 650;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 570px) {
   #header .countdown div {
-    width: 75px;
+    width: 70px;
     padding: 10px 0;
-    margin: 12px 10px;
+    margin: 10px 8px;
   }
 
   #header .countdown div h3 {
